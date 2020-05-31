@@ -19,3 +19,5 @@ public class SolutionTest {
         assertEquals("Hey wollef sroirraw",  solution.spinWords("Hey fellow warriors"));
     }
 }
+
+
